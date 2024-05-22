@@ -12,6 +12,20 @@
     back:
     - ClothingNeckArtifactNecklace
 
+# Envoy's angled fedora
+- type: loadout
+  id: ClothingHeadHatFedoraGreyAngled
+  equipment: ClothingHeadHatFedoraGreyAngled
+  effects:
+  - !type:PersonalItemLoadoutEffect
+    character: Envoy Gunderson
+
+- type: startingGear
+  id: ClothingHeadHatFedoraGreyAngled
+  storage:
+    back:
+    - ClothingHeadHatFedoraGreyAngled
+
 # Frosty winter coat
 - type: loadout
   id: FrostCoat

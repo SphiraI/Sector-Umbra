@@ -1,0 +1,12 @@
+#Player: ChudGunderson - Character: Envoy Gunderson
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatFedoraGreyAngled
+  name: angled grey fedora
+  description: It's a grey fedora with an unusual tilt. You can't seem to get it to fit right...
+  suffix: PersonalItem
+  components:
+  - type: Sprite
+    sprite: _Umbra/Clothing/Head/angledGreyFedora.rsi
+  - type: Clothing
+    sprite: _Umbra/Clothing/Head/angledGreyFedora.rsi
